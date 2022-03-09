@@ -1,12 +1,12 @@
 ## HELLO WORLD!
 
-This will be my protfolio website.
+This will be my portfolio website.
 
 ### Short About Me
 
 Environmenal Engineering graduate & IT student
 ```markdown
-# Header
+# First header 
 Block text
 ```
 
