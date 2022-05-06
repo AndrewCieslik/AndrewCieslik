@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AndrewCieslik
+- 👀 I’m interested in ...sailing, cycling, playing the violin, gym
+- 🌱 I’m currently learning ...JAVA
+- 💞️ I’m looking to collaborate on ...will see
+- 📫 How to reach me ...cieslik.andrew@gmail.com
