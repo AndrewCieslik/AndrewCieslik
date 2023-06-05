@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewCieslik
 - 👀 I’m interested in ...sailing, cycling, playing the violin, gym
 - 🌱 I’m currently learning ...C/C++
-- UniversityLabs: assembly, java, vhdl, c/c++
+- UniversityLabs: assembly, java, vhdl, c/c++, OpenGl
 - 💞️ I’m looking to collaborate on ...will see
 - 📫 How to reach me ...cieslik.andrew@gmail.com
